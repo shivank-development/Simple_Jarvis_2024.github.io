@@ -1,0 +1,112 @@
+websites_by_category = {
+    "social": {
+        "facebook": "www.facebook.com",
+        "instagram": "www.instagram.com",
+        "twitter": "www.twitter.com",
+        "x": "www.x.com",
+        "snapchat": "www.snapchat.com",
+        "tiktok": "www.tiktok.com",
+        "threads": "www.threads.net",
+        "discord": "www.discord.com",
+        "twitch": "www.twitch.tv",
+        "reddit": "www.reddit.com",
+        "clubhouse": "www.joinclubhouse.com",
+        "tumblr": "www.tumblr.com",
+        "flickr": "www.flickr.com",
+        "vk": "www.vk.com",
+        "ok.ru": "ok.ru",
+        "mewe": "mewe.com",
+        "mix": "mix.com",
+        "hi5": "www.hi5.com",
+        "tagged": "www.tagged.com",
+        "myspace": "www.myspace.com",
+        "truth social": "www.truthsocial.com",
+        "gettr": "www.gettr.com"
+    },
+    "search": {
+        "google": "www.google.com",
+        "bing": "www.bing.com",
+        "duckduckgo": "www.duckduckgo.com",
+        "yahoo": "www.yahoo.com",
+        "ask": "www.ask.com",
+        "aol": "www.aol.com",
+        "yandex": "www.yandex.com"
+    },
+    "tools": {
+        "canva": "www.canva.com",
+        "notion": "www.notion.so",
+        "w3schools": "www.w3schools.com",
+        "remove.bg": "www.remove.bg",
+        "photopea": "www.photopea.com",
+        "pixlr": "www.pixlr.com",
+        "ilovepdf": "www.ilovepdf.com",
+        "pdfescape": "www.pdfescape.com",
+        "tinyurl": "www.tinyurl.com",
+        "bitly": "www.bitly.com",
+        "dropbox": "www.dropbox.com",
+        "drive": "drive.google.com",
+        "evernote": "www.evernote.com"
+    },
+    "ai": {
+        "chatgpt": "chat.openai.com",
+        "openai": "www.openai.com",
+        "claude": "www.claude.ai",
+        "perplexity": "www.perplexity.ai",
+        "gemini": "gemini.google.com",
+        "midjourney": "www.midjourney.com",
+        "character ai": "www.character.ai",
+        "runway": "runwayml.com"
+    },
+    "dev": {
+        "github": "www.github.com",
+        "gitlab": "www.gitlab.com",
+        "stackoverflow": "stackoverflow.com",
+        "replit": "www.replit.com",
+        "codepen": "www.codepen.io",
+        "jsfiddle": "jsfiddle.net",
+        "glitch": "glitch.com",
+        "codesandbox": "codesandbox.io"
+    },
+    "learning": {
+        "coursera": "www.coursera.org",
+        "edx": "www.edx.org",
+        "khan academy": "www.khanacademy.org",
+        "udemy": "www.udemy.com",
+        "geeksforgeeks": "www.geeksforgeeks.org",
+        "freecodecamp": "www.freecodecamp.org",
+        "brilliant": "www.brilliant.org",
+        "youtube": "www.youtube.com",
+        "youtube studio": "studio.youtube.com"
+    },
+    "media": {
+        "netflix": "www.netflix.com",
+        "amazon prime": "www.primevideo.com",
+        "spotify": "www.spotify.com",
+        "soundcloud": "www.soundcloud.com",
+        "gaana": "www.gaana.com",
+        "jio saavn": "www.jiosaavn.com",
+        "dailymotion": "www.dailymotion.com",
+        "triller": "www.triller.co"
+    },
+    "shopping": {
+        "amazon": "www.amazon.com",
+        "flipkart": "www.flipkart.com",
+        "ebay": "www.ebay.com",
+        "aliexpress": "www.aliexpress.com",
+        "myntra": "www.myntra.com",
+        "nykaa": "www.nykaa.com",
+        "ajio": "www.ajio.com",
+        "snapdeal": "www.snapdeal.com"
+    },
+    "communication": {
+        "whatsapp": "www.whatsapp.com",
+        "telegram": "www.telegram.org",
+        "signal": "www.signal.org",
+        "wechat": "www.wechat.com",
+        "line": "line.me",
+        "messenger": "www.messenger.com",
+        "skype": "www.skype.com",
+        "zoom": "www.zoom.us",
+        "gmail": "mail.google.com"
+    }
+}

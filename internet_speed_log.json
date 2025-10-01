@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": "2025-09-21T11:16:14.481214",
+    "download": 13.0,
+    "upload": 12.0,
+    "latency": 52.0
+  },
+  {
+    "timestamp": "2025-09-21T11:20:01.918054",
+    "download": 13.0,
+    "upload": 15.0,
+    "latency": 51.0
+  },
+  {
+    "timestamp": "2025-09-21T11:21:29.697565",
+    "download": 12.0,
+    "upload": 17.0,
+    "latency": 53.0
+  },
+  {
+    "timestamp": "2025-09-21T11:22:52.681806",
+    "download": 8.1,
+    "upload": 17.0,
+    "latency": 54.0
+  },
+  {
+    "timestamp": "2025-09-21T11:24:14.166779",
+    "download": 19.0,
+    "upload": 35.0,
+    "latency": 44.0
+  },
+  {
+    "timestamp": "2025-09-21T11:26:06.250408",
+    "download": 16.0,
+    "upload": 32.0,
+    "latency": 47.0
+  },
+  {
+    "timestamp": "2025-09-21T11:29:23.211261",
+    "download": 25.0,
+    "upload": 20.0,
+    "latency": 61.0
+  },
+  {
+    "timestamp": "2025-09-21T11:31:13.366571",
+    "download": 27.0,
+    "upload": 11.0,
+    "latency": 52.0
+  },
+  {
+    "timestamp": "2025-09-28T21:46:59.477407",
+    "download": 15.0,
+    "upload": 1.5,
+    "latency": 139.0
+  },
+  {
+    "timestamp": "2025-09-30T20:09:00.452372",
+    "download": 26.0,
+    "upload": 53.0,
+    "latency": 42.0
+  },
+  {
+    "timestamp": "2025-09-30T20:10:25.579470",
+    "download": 16.0,
+    "upload": 47.0,
+    "latency": 46.0
+  }
+]
